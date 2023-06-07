@@ -1,4 +1,4 @@
-## Description
+## test
 
 This is a [github action](https://github.com/features/actions) to publish a
 Logseq graph as a [publishing](https://docs.logseq.com/#/page/publishing) Single
